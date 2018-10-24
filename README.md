@@ -11,5 +11,5 @@ https://www.youtube.com/watch?v=cink3PuLbR0
 
 
 For detalied explanation of the project please visit:
-https://github.com/onurerkin/ObjectDetectingRobot/blob/master/Project%20Report.docx
+[a link](https://github.com/onurerkin/ObjectDetectingRobot/blob/master/Project%20Report.docx)
       
