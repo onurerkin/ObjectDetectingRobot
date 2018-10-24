@@ -10,3 +10,5 @@ A better version with cool background music:
 https://www.youtube.com/watch?v=cink3PuLbR0
 
 
+For detalied explanation of the project please visit: ObjectDetectingRobot/Project Report.docx
+      
